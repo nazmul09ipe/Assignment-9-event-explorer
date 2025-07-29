@@ -62,12 +62,13 @@ function Register() {
   };
 
   return (
-    <div className='w-full mx-auto min-h-screen flex justify-center pt-5'>
+    <div className='w-full mx-auto min-h-screen '>
       <Helmet>
         <title>Register | Happen Hub</title>
       </Helmet>
-
-      <div className="card bg-blue-300 w-[420px] h-[535px] shadow-2xl">
+<div className='flex justify-center items-center'> <h1 className='text-3xl font-medium text-cyan-950 mt-10 mb-8'> Please Register here</h1></div>
+      <div className='flex justify-center items-center'>
+<div className="card bg-blue-300 w-[420px] h-[535px] shadow-2xl">
         <form onSubmit={handleRegister} className="card-body ml-5">
           <fieldset className="fieldset primary-font">
             {/* Name */}
@@ -129,6 +130,10 @@ function Register() {
           </div>
         </form>
       </div>
+
+
+
+        </div>
     </div>
   );
 }

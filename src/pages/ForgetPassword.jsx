@@ -24,11 +24,12 @@ function ForgetPassword() {
       .then(() => {
         alert("Reset password link sent! Check your email.");
         console.log(email);
-        Navigate("/auth/login")
+        
       })
       .catch((error) => {
         alert("Error: " + error.message);
       });
+      Navigate("/auth/login")
   };
 
   return (

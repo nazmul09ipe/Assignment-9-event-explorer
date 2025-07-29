@@ -19,7 +19,7 @@ function Contact() {
       <div className="min-h-screen bg-gray-300 text-gray-800 flex flex-col justify-between">
         <section className="max-w-4xl w-11/12 mx-auto px-4 sm:px-6 py-16">
           <div className="text-center mb-12">
-            <h1 className="text-4xl font-bold text-cyan-950">Contact HappenHub</h1>
+            <h1 className="text-4xl font-bold text-cyan-950">Contact- HappenHub</h1>
             <p className="mt-4 text-cyan-600 text-base sm:text-lg">We'd love to hear from you. Drop us a message!</p>
           </div>
 

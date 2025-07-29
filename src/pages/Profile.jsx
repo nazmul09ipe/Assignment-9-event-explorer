@@ -43,7 +43,7 @@ function Profile() {
 
       {/* Profile Header */}
       <div className="max-w-3xl mx-auto text-center mb-5">
-        <h1 className="text-2xl sm:text-3xl font-bold text-blue-800 mb-3">My Profile</h1>
+        <h1 className="text-2xl sm:text-3xl font-bold text-cyan-950 mb-3">My Profile</h1>
         <img
           src={user?.photoURL || 'https://via.placeholder.com/100'}
           alt="Profile"

@@ -64,7 +64,7 @@ signInWithPopup(auth, provider)
               name="email"
               type="email"
               className="input"
-              placeholder="Email"
+              placeholder="Type your email here"
               required
               value={email}
               onChange={(e) => setEmail(e.target.value)}
@@ -76,7 +76,7 @@ signInWithPopup(auth, provider)
                 name="password"
                 type={showPassword ? 'text' : 'password'}
                 className="input w-full pr-10"
-                placeholder="Password"
+                placeholder="Type Password here"
                 required
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}

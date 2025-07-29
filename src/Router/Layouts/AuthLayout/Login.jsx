@@ -56,7 +56,7 @@ signInWithPopup(auth, provider)
       </Helmet>
 <div className='flex justify-center items-center'> <h1 className='text-3xl font-medium text-cyan-950 mt-10'> Please Login your Account</h1></div>
      <div className='flex justify-center items-center mt-10'>
-      <div className="card bg-blue-300 w-[400px] h-[340px] shadow-2xl  ">
+      <div className="card bg-blue-300 w-[400px] h-[390px] shadow-2xl  ">
         <form onSubmit={handleLogin} className="card-body ml-5">
           <fieldset className="fieldset primary-font">
             <label className="label">Email</label>

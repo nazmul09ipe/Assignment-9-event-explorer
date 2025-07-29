@@ -2,12 +2,12 @@
 import * as React from 'react';
 import { getAuth, sendPasswordResetEmail } from "firebase/auth";
 import { useState } from 'react';
-import { useLocation } from 'react-router';
+import { useLocation, useNavigate } from 'react-router'; // <-- correct import
 import app from '../Firebase/Firebase.config';
-import { Navigate } from 'react-router';
 
 function ForgetPassword() {
   const location = useLocation();
+  const navigate = useNavigate(); // <-- useNavigate hook
   const passedEmail = location.state?.email || '';
   const [email, setEmail] = useState(passedEmail);
 
@@ -23,13 +23,11 @@ function ForgetPassword() {
     sendPasswordResetEmail(auth, email)
       .then(() => {
         alert("Reset password link sent! Check your email.");
-        console.log(email);
-        
+        navigate("/auth/login"); // <-- navigate after alert
       })
       .catch((error) => {
         alert("Error: " + error.message);
       });
-      Navigate("/auth/login")
   };
 
   return (

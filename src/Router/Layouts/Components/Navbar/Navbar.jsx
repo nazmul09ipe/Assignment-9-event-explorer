@@ -63,7 +63,7 @@ console.log("Navbar user:", user);
 
              </div>
            
-              <div className="mt-2 font-light text-[15px]">{user.email}</div>
+              <div className="mt-2 font-light text-[12px]">{user.email}</div>
 
             </div>   
            :""

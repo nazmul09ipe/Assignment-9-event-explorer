@@ -81,7 +81,7 @@ function Register() {
 
             {/* Photo URL */}
             <label className="label">Photo URL</label>
-            <input name="photo" type="link" className="input" placeholder="Photo URL (direct image link)" />
+            <input name="photo" type="link" className="input" placeholder="Photo URL (direct image link)" required />
 
             {/* Password */}
             <label className="label">Password</label>

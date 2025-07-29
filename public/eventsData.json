@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Atif aslam solo Music concert",
+		"thumbnail": "https://i.ibb.co/mFt5FdwY/atif-aslam.jpg",
+		"category": "Music",
+		"date": "Aug 20, 2025",
+		"location": "Bangladesh Army Stadium",
+		"entry_fee": 1000,
+		"description": "inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque"
+	},
+	{
+		"id": 2,
+		"name": "International seminer on impact of AI on BD Industries ",
+		"thumbnail": "https://i.ibb.co/sJvf9FHf/cbec.jpg",
+		"category": "Seminer",
+		"date": "Sep 24, 2025",
+		"location": "China-Bangladesh friendship center",
+		"entry_fee": 500,
+		"description": "eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis non enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent"
+	},
+	{
+		"id": 3,
+		"name": "Arts Exhibition on Shilpacharyo Joynul abedin",
+		"thumbnail": "https://i.ibb.co/sdY996CC/art.jpg",
+		"category": "Art",
+		"date": "Nov 7, 2025",
+		"location": "Bengal gallery",
+		"entry_fee": 300,
+		"description": "risus. Quisque libero lacus, varius et, euismod et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor at risus. Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus ante dictum mi, ac mattis velit justo nec ante. Maecenas mi felis, adipiscing"
+	},
+	{
+		"id": 4,
+		"name": "Squid Game Session 3",
+		"thumbnail": "https://i.ibb.co/zTLWkXd4/squid.jpg",
+		"category": "Movie and Drama",
+		"date": "July 20, 2025",
+		"location": "Star Cineplex",
+		"entry_fee": 500,
+		"description": "nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut"
+	},
+	{
+		"id": 5,
+		"name": "Nil darpon",
+		"thumbnail": "https://i.ibb.co/fVZQZzw0/theatre-nil.jpg",
+		"category": "Theatre",
+		"date": "Aug 5, 2025",
+		"location": "Baily road",
+		"entry_fee": 400,
+		"description": "ac mattis semper, dui lectus rutrum urna, nec luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices sit amet, risus. Donec nibh enim, gravida sit"
+	},
+	{
+		"id": 6,
+		"name": "Dhaka International Trade fair 2026",
+		"thumbnail": "https://i.ibb.co/WvdR9nS8/fair.jpg",
+		"category": "Fair",
+		"date": "Jan 1, 2026",
+		"location": "Purbachol",
+		"entry_fee": 500,
+		"description": "ac mattis semper, dui lectus rutrum urna, nec luctus felis purus ac tellus."
+	}
+]

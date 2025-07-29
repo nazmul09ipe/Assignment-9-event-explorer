@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"pic": "https://i.ibb.co/G4p7fsH6/career.jpg"  ,
+		"name": "Career Consultation: An Easy way to success",
+		"location": "Dhaka",
+		"date": "Mar 31, 2026",
+		"organizer": "Programming Hero",
+        "Course-fees": 1000
+	},
+	{
+		"id": 2,
+		"pic": "https://i.ibb.co/BHb7v10f/parenting.jpg"  ,
+		"name": "Parenting Exclusive guidelines session",
+		"location": "Mirpur, Dhaka",
+		"date": "Jan 9, 2026",
+		"organizer": "Life spring",
+        "Course-fees": 800
+	},
+	{
+		"id": 3,
+		"pic": "https://i.ibb.co/3mkQ3cHk/imotion.jpg"  ,
+		"name": "Imotional Intelligence: A study from prophetic life ",
+		"location": "Banani,Dhaka",
+		"date": "Dec 28, 2025",
+		"organizer": "As-Sunnah Foundation",
+         "Course-fees": 500
+	},
+	{
+		"id": 4,
+		"pic": "https://i.ibb.co/N28KrgW2/digital.jpg"  ,
+		"name": "Will you be a succeessful Digital marketer?",
+		"location": "Dhanmondi,Dhaka",
+		"date": "Sep 10, 2025",
+		"organizer": "Creative It",
+         "Course-fees": 1500
+	},
+	{
+		"id": 5,
+		"pic": "https://i.ibb.co/DD8XnXgm/mobile.jpg"  ,
+		"name": "Mobile addiction among children: A Guidelines for the parents",
+		"location": "Banosree,Dhaka",
+		"date": "Jan 24, 2026",
+		"organizer": "Healthy Baby,Bangladesh",
+         "Course-fees": 500
+	},
+	{
+		"id": 6,
+		"pic": "https://i.ibb.co/fzJXfHb5/special-child.jpg"  ,
+		"name": "Special Child managing strategies",
+		"location": "Dhaka",
+		"date": "Mar 19, 2026",
+		"organizer": "Future Builders Bangladesh",
+         "Course-fees": 1000
+	},
+	{
+		"id": 7,
+		"pic": "https://i.ibb.co/5WCLfyYG/bodybuilder.jpg"  ,
+		"name": "How to become a bodybuilder at home ",
+		"location": "Farmgate,Dhaka",
+		"date": "Oct 8, 2025",
+		"organizer": "Fitness world BD ",
+         "Course-fees": 1000
+	},
+	{
+		"id": 8,
+		"pic": "https://i.ibb.co/wrNwFvxP/doctor.jpg"  ,
+		"name": "A day long masterclass of General Practioner(doctors)",
+		"location": "IDB ,Dhaka",
+		"date": "Dec 3, 2025",
+		"organizer": "Bangladesh Global Health and Research Institute ",
+         "Course-fees": 2000
+	}
+]

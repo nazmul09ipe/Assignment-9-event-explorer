@@ -4,6 +4,7 @@ import { getAuth, sendPasswordResetEmail } from "firebase/auth";
 import { useState } from 'react';
 import { useLocation } from 'react-router';
 import app from '../Firebase/Firebase.config';
+import { Navigate } from 'react-router';
 
 function ForgetPassword() {
   const location = useLocation();
@@ -23,6 +24,7 @@ function ForgetPassword() {
       .then(() => {
         alert("Reset password link sent! Check your email.");
         console.log(email);
+        Navigate("/auth/login")
       })
       .catch((error) => {
         alert("Error: " + error.message);

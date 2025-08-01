@@ -31,7 +31,7 @@ const router=createBrowserRouter(
             
             
                 { index: true, 
-                 loader:()=>fetch('/public/counterData.json'),
+                 loader:()=>fetch('/counterData.json'),
                  
                   Component:Home,
                   hydrateFallbackElement:<Loading></Loading>
@@ -50,7 +50,7 @@ const router=createBrowserRouter(
               
                {
                    path:"/eventDetails/:id",
-                   loader:()=>fetch('/public/eventsData.json'),
+                   loader:()=>fetch('/eventsData.json'),
                    Component: EventDetailsWrapper,
                    hydrateFallbackElement:<Loading></Loading>
                },

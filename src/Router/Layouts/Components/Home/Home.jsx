@@ -14,10 +14,10 @@ import OnlineEvents from  '../OnlineEvents';
 
 function Home() {
 
-const eventPromise=fetch('/public/eventsData.json')
+const eventPromise=fetch('/eventsData.json')
 .then(res=>res.json())
 
-const onlinePromise=fetch('/public/onlineEvent.json')
+const onlinePromise=fetch('/onlineEvent.json')
 .then(res=>res.json())
 
 
